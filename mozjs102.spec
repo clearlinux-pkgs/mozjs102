@@ -2,10 +2,10 @@
 # Inspired by the Arch Linux equivalent package.....
 #
 Name     : mozjs102
-Version  : 102.0
-Release  : 1
-URL      : https://archive.mozilla.org/pub/firefox/releases/102.0esr/source/firefox-102.0esr.source.tar.xz
-Source0  : https://archive.mozilla.org/pub/firefox/releases/102.0esr/source/firefox-102.0esr.source.tar.xz
+Version  : 102.3.0
+Release  : 2
+URL      : https://archive.mozilla.org/pub/firefox/releases/102.3.0esr/source/firefox-102.3.0esr.source.tar.xz
+Source0  : https://archive.mozilla.org/pub/firefox/releases/102.3.0esr/source/firefox-102.3.0esr.source.tar.xz
 Group    : Development/Tools
 Summary  : JavaScript interpreter and libraries
 License  : Apache-2.0 BSD-2-Clause BSD-3-Clause BSD-3-Clause-Clear GPL-2.0 LGPL-2.0 LGPL-2.1 MIT MPL-2.0-no-copyleft-exception
