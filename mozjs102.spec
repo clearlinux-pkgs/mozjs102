@@ -3,7 +3,7 @@
 #
 Name     : mozjs102
 Version  : 102.6.0
-Release  : 5
+Release  : 6
 URL      : https://archive.mozilla.org/pub/firefox/releases/102.6.0esr/source/firefox-102.6.0esr.source.tar.xz
 Source0  : https://archive.mozilla.org/pub/firefox/releases/102.6.0esr/source/firefox-102.6.0esr.source.tar.xz
 Group    : Development/Tools
